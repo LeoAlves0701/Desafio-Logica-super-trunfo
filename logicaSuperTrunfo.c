@@ -99,48 +99,6 @@ int main(){
     } else {
         printf("empate.\n");
     }
-    if (area1 > area2) {
-        printf("A carta 1 venceu.\n");
-    } else if (area1 < area2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
-    if (pib1 > pib2) {
-        printf("A carta 1 venceu.\n");
-    } else if (pib1 < pib2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
-    if (pontos1 > pontos2) {
-        printf("A carta 1 venceu.\n");
-    } else if (pontos1 < pontos2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
-    if (densidade1 > densidade2) {
-        printf("A carta 1 venceu.\n");
-    } else if (densidade1 < densidade2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
-    if (pibPerCapita1 > pibPerCapita2) {
-        printf("A carta 1 venceu.\n");
-    } else if (pibPerCapita1 < pibPerCapita2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
-    if (superpoder1 > superpoder2) {
-        printf("A carta 1 venceu.\n");
-    } else if (superpoder1 < superpoder2) {
-        printf("A carta 2 venceu.\n");
-    } else {
-        printf("empate.\n");
-    }
     printf("\n***Fim do jogo***\n");
 
  
